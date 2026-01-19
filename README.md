@@ -43,7 +43,6 @@ This repo is intended for experimentation, research, and as a starting point for
 - explainable_fraud_alert_system.py
 - README.md
 
-Adjust paths as needed to reflect the actual code layout in this repository.
 
 ## Getting started
 
